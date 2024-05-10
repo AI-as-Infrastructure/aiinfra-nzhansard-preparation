@@ -1,0 +1,7 @@
+
+Total word count: 3676295
+Total character count: 20225677
+Average word count per session: 59295.08064516129
+Average character count per session: 326220.5967741936
+Number of people: 19189
+Number of places: 7357
