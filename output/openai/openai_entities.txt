@@ -1,37 +1,27 @@
-Named entities identified in the text are as follows:
+People entities:
+1. Queen Victoria
+2. King Edward VII
+3. Sir Henry John Miller
+4. Uchter John Mark, Earl of Ranfurly
+5. Sir George Maurice O'Rorke
+6. Charles Lewis
+7. George Hutchison
+8. Richard John Seddon
+9. Joseph George Ward
+10. William Hall-Jones
+11. C. H. Mills
+12. Dudley Alexander
 
-1. Persons:
-   - Queen Victoria
-   - King Edward VII
-   - Sir H. J. MILLER
-   - Captain BAILLIE
-   - Mr. W. C. WALKER
-   - Mr. W. KELLY
-   - Sir George Maurice O'Rorke
-   - Charles Lewis
-   - George Hutchison
-   - Hone Hexe
-   - Mr. SEDDON
-   - Captain RUSSELL
-
-2. Locations:
-   - New Zealand
-   - Isle of Wight
-   - Great Britain
-   - Osborne House
-   - Frogmore
-   - Wellington
-   - Patea
-   - Hawke's Bay
-   - City of Christchurch
-   - Northern Maori District
-
-3. Organizations:
-   - Legislative Council
-   - House of Representatives
-
-4. Other:
-   - Parliament
-   - Colonial Secretary's Office
-   - Government House
-   - Gazette
+Place entities:
+1. New Zealand
+2. Parliament
+3. Wellington
+4. Chief Commissioner
+5. Legislative Council
+6. House of Representatives
+7. Osborne House
+8. Frogmore
+9. Chatam
+10. Christchurch
+11. Patea
+12. Northern Maori District
