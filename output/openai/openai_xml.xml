@@ -1,0 +1,108 @@
+```xml
+<hansard>
+    <house>
+        <name>LEGISLATIVE COUNCIL</name>
+        <date>Monday, 1st July, 1901</date>
+        <event>Opening of Parliament</event>
+        <event>Swearing-in of Members</event>
+        <event>Death of Queen Victoria</event>
+        
+        <members>
+            <member>
+                <name>Sir H. J. MILLER</name>
+                <position>Chief Commissioner</position>
+            </member>
+            <member>
+                <name>Captain BAILLIE</name>
+                <position>Hon. Member</position>
+            </member>
+            <member>
+                <name>W. C. WALKER, C.M.G.</name>
+                <position>Hon. Member</position>
+            </member>
+            <member>
+                <name>W. KELLY</name>
+                <position>Hon. Member</position>
+            </member>
+            <member>
+                <name>Sir Henry John Miller, M.L.C.</name>
+                <position>Speaker of the Legislative Council</position>
+            </member>
+        </members>
+        
+        <proceedings>
+            <proclamation>
+                <date>1st July, 1901</date>
+                <content>
+                    PARLIAMENT was prorogued on the 22nd October, 1900, to the 20th December, 1900; thence prorogued to the 21st February, 1901; thence prorogued to the 18th April; thence prorogued  to the 11th May; and further prorogued to the 1st July, when it met for the despatch of business.
+                </content>
+            </proclamation>
+            <commissioners>
+                <content>
+                    HIS EXCELLENCY THE GOVERNOR issued a Commission for the opening and holding of this session of Parliament. 
+                </content>
+            </commissioners>
+            <oath>
+                <content>
+                    The Members were required to take the oath of allegiance to His Majesty King Edward the Seventh.
+                </content>
+            </oath>
+            <death_announcement>
+                <content>
+                    MESSAGE: The Governor informed the Council of the death of Queen Victoria on the 22nd January, 1901, and the proclamation of King Edward the Seventh.
+                </content>
+            </death_announcement>
+        </proceedings>
+    </house>
+    
+    <house>
+        <name>HOUSE OF REPRESENTATIVES</name>
+        <date>Monday, 1st July, 1901</date>
+        <event>Opening of Session</event>
+        <event>Swearing-in of Members</event>
+        <event>Death of Queen Victoria</event>
+        
+        <members>
+            <member>
+                <name>Sir George Maurice O'Rorke, Kt.</name>
+                <position>Speaker of the House of Representatives</position>
+            </member>
+            <member>
+                <name>Charles Lewis</name>
+                <position>City of Christchurch Member</position>
+            </member>
+            <member>
+                <name>George Hutchison</name>
+                <position>Patea Member</position>
+            </member>
+            <member>
+                <name>Hone Hexe</name>
+                <position>Northern Maori District Member</position>
+            </member>
+        </members>
+        
+        <proceedings>
+            <proclamation>
+                <content>
+                    HIS EXCELLENCY THE GOVERNOR issued a Commission for the opening session.
+                </content>
+            </proclamation>
+            <oath>
+                <content>
+                    The Members took the oath of allegiance to His Majesty King Edward VII.
+                </content>
+            </oath>
+            <resignations>
+                <content>
+                    Members Charles Lewis and George Hutchison resigned from their positions.
+                </content>
+            </resignations>
+            <death_announcement>
+                <content>
+                    MESSAGE: The Governor informed the House of the passing of Queen Victoria and the ascension of King Edward the Seventh.
+                </content>
+            </death_announcement>
+        </proceedings>
+    </house>
+</hansard>
+```

@@ -1,0 +1,37 @@
+Named entities identified in the text are as follows:
+
+1. Persons:
+   - Queen Victoria
+   - King Edward VII
+   - Sir H. J. MILLER
+   - Captain BAILLIE
+   - Mr. W. C. WALKER
+   - Mr. W. KELLY
+   - Sir George Maurice O'Rorke
+   - Charles Lewis
+   - George Hutchison
+   - Hone Hexe
+   - Mr. SEDDON
+   - Captain RUSSELL
+
+2. Locations:
+   - New Zealand
+   - Isle of Wight
+   - Great Britain
+   - Osborne House
+   - Frogmore
+   - Wellington
+   - Patea
+   - Hawke's Bay
+   - City of Christchurch
+   - Northern Maori District
+
+3. Organizations:
+   - Legislative Council
+   - House of Representatives
+
+4. Other:
+   - Parliament
+   - Colonial Secretary's Office
+   - Government House
+   - Gazette
