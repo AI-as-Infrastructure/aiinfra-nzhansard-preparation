@@ -1,0 +1,38 @@
+Named entities identified in the text:
+
+1. Persons:
+   - Queen Victoria
+   - King Edward the Seventh
+   - Sir H. J. Miller
+   - Captain Baillie
+   - Mr. W. C. Walker
+   - Mr. W. Kelly
+   - Sir Henry John Miller
+   - Uchter John Mark, Earl of Ranfurly
+   - Richard John Seddon
+   - Joseph George Ward
+   - Sir George Maurice O'Rorke
+   - Charles Lewis
+   - George Hutchison
+   - Hone Hexe
+   - Mr. Seddon
+   - Captain Russell
+
+2. Locations:
+   - New Zealand
+   - Parliament
+   - Isle of Wight
+   - Frogmore
+   - Wellington
+   - Government House
+   - Maori District
+   - City of Christchurch
+   - Patea
+   - Hawke's Bay
+
+3. Other:
+   - Legislative Council
+   - House of Representatives
+   - Commission
+   - Gazette
+   - Proclamation
