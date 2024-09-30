@@ -11,4 +11,4 @@ Known issues:
 - Tabular-like information (lists or columns of data) can result in the order of text on the page being mangled. This appears to be isolated to indiviudal pages. This could potentially be improved using different settings in Azure Document intelligence but doing so might require additional cleaning of digitization metadata.
 - There are occasional remnants of digitization metadata (white spaces, exclamation marks, brackets etc). 
 
-AAfter this baseline processing, the output is copied to [AIINFRA source preparation](https://github.com/AI-as-Infrastructure/aiinfra-source-wrangling) for processing alongside AU and UK sources.
+AAfter this baseline processing, the output is copied to [AIINFRA source preparation](https://github.com/AI-as-Infrastructure/aiinfra-source-preparation) for processing alongside AU and UK sources.
