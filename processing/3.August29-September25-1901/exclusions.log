@@ -1,0 +1,9 @@
+2024-10-02 20:12:50,364 - INFO - Excluded strings: ['<!-- FigureContent="Stores.', '" Per" -->', '<!-- PageHeader="Imperial Honours.', 'http://www.hathitrust.org/access use#cc-zero', 'http://www.hathitrust. org/access use#cc-zero', 'org/access', 'use#cc-zero', '/'], Excluded patterns: ['http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\\\(\\\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', '<!--\\s*[a-zA-Z]+\\s*="[^"]*"\\s*-->']
+2024-10-02 20:12:50,416 - INFO - Removing string: <!-- FigureContent="Stores.
+2024-10-02 20:12:50,417 - INFO - Removing string: " Per" -->
+2024-10-02 20:12:50,418 - INFO - Removing string: <!-- PageHeader="Imperial Honours.
+2024-10-02 20:12:50,419 - INFO - Removing string: http://www.hathitrust.org/access use#cc-zero
+2024-10-02 20:12:50,420 - INFO - Removing string: http://www.hathitrust. org/access use#cc-zero
+2024-10-02 20:12:50,421 - INFO - Removing string: org/access
+2024-10-02 20:12:50,422 - INFO - Removing string: use#cc-zero
+2024-10-02 20:12:50,424 - INFO - Removing string: /
