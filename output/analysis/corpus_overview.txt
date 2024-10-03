@@ -1,0 +1,13 @@
+
+Total page count: 3,523
+Total word count: 3,668,550
+Total character count: 20,451,276
+
+Total number of sessions: 62
+Average page count per session: 57
+Average word count per session: 59,170
+Average character count per session: 329,859
+
+Number of people mentioned (NLTK): 19,189
+Number of places mentioned (NLTK): 14,714
+
